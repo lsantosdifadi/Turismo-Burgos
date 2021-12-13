@@ -1,0 +1,5 @@
+//mis scripts
+
+
+function saludo()
+{}
