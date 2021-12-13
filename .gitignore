@@ -1,0 +1,12 @@
+#archivos sin seguiento
+
+
+
+definicion_de_proyecto.txt
+
+
+
+#todos los directorios que se llamen psd y a los archivos del directorio
+**/psd 
+
+**/*.log
