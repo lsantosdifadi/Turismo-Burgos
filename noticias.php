@@ -18,5 +18,43 @@
         <footer>Autor y fecha</footer>
     </section>
 
+    <section>
+        <article>
+            <h2>Titulo de la noticia</h2>
+            <p>Texto de la noticia</p>
+            <img src="" alt="">
+        </article>
+        <footer>Autor y fecha</footer>
+    </section>
+
+    <section>
+        <article>
+            <h2>Titulo de la noticia</h2>
+            <p>Texto de la noticia</p>
+            <img src="" alt="">
+        </article>
+        <footer>Autor y fecha</footer>
+    </section>
+
+    <section>
+        <article>
+            <h2>Titulo de la noticia</h2>
+            <p>Texto de la noticia</p>
+            <img src="" alt="">
+        </article>
+        <footer>Autor y fecha</footer>
+    </section>
+
+    <section>
+        <article>
+            <h2>Titulo de la noticia</h2>
+            <p>Texto de la noticia</p>
+            <img src="" alt="">
+        </article>
+        <footer>Autor y fecha</footer>
+    </section>
+
+    <footer></footer>
+
 </body>
 </html>
