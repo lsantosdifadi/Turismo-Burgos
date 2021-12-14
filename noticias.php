@@ -15,6 +15,7 @@
             <p>Texto de la noticia</p>
             <img src="" alt="">
         </article>
+        <footer>Autor y fecha</footer>
     </section>
 
 </body>
