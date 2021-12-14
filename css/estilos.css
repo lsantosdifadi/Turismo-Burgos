@@ -26,3 +26,8 @@ border: 1px solid #ccc;
 
 }
 
+article{
+    margin: 1rem;
+    background-color: fuchsia;
+    color: white;
+}
